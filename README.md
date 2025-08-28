@@ -54,12 +54,6 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ## 🌐 Projects
 
-I'm continuously working on various projects to strengthen my skills and explore new technologies. Here are some highlights:
-
-- **[Project Name]** - Brief description of the project and technologies used.
-- **[Project Name]** - Brief description of the project and technologies used.
-- **[Project Name]** - Brief description of the project and technologies used.
-
 Explore more of my work on my [GitHub repositories](https://github.com/ArKharMinnDev).
 
 ## 📫 Let's Connect
