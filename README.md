@@ -1,187 +1,76 @@
-<div align="center" style="max-width: 800px; margin: auto; padding: 2rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3748;">
+# Arkhar Minn - Full Stack Developer 👨‍💻
 
-  <!-- Header -->
-  <header style="margin-bottom: 2rem;">
-    <h1 style="font-size: 2.5rem; font-weight: 700;">Hello, I'm Arkhar Minn 👋</h1>
-    <p style="font-size: 1.1rem; color: #4a5568;">Full Stack Developer | Tech Enthusiast | Problem Solver</p>
-  </header>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkhar-minn-901a752a8)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArKharMinnDev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akmin.9060)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkharminn.dev@gmail.com)
 
-  <!-- Social Links -->
-  <section style="display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
-    <a href="https://www.facebook.com/akmin.9060" target="_blank" title="Facebook">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" />
-    </a>
-    <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank" title="LinkedIn">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" />
-    </a>
-    <a href="https://github.com/ArKharMinnDev" target="_blank" title="GitHub">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="32" />
-    </a>
-  </section>
+## 🚀 About Me
 
-  <!-- About Me -->
-  <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">👨‍💻 About Me</h2>
-    <p style="line-height: 1.6; color: #4a5568;">
-      I'm a passionate full-stack developer with expertise in scalable web applications. With strong frontend and backend skills,
-      I deliver efficient, user-friendly solutions and continuously strive to learn and improve.
-    </p>
-  </section>
+I'm a passionate full-stack developer with expertise in building scalable web applications. With strong frontend and backend skills, I deliver efficient, user-friendly solutions and continuously strive to learn and improve my craft. I enjoy solving complex problems and turning ideas into reality through clean, maintainable code.
 
-  <!-- Tech Stack -->
-  <section style="margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🛠️ Tech Stack</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 1rem;">
-     <span style="margin-right: 10px;">
-        <a href="https://www.w3.org/html/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.typescriptlang.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://reactnative.dev/" target="_blank">
-            <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://aws.amazon.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://nextjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://jquery.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.mongodb.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.postgresql.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.php.net" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.java.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://spring.io/projects/spring-boot" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://vuejs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://laravel.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://reactjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://redux.js.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://expressjs.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.python.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://nodejs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://laravel-livewire.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/livewire.svg" alt="Livewire" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://alpinejs.dev/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://www.docker.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-        </a>
-    </span>
-    <span style="margin-right: 10px;">
-        <a href="https://git-scm.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-        </a>
-    </span>
-    </div>
-  </section>
+## 🛠️ Tech Stack
 
-  <!-- Projects -->
-  <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🌐 Projects</h2>
-    <p align="left">
-        I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinnDev" target="_blank">GitHub</a>.
-    </p>
-  </section>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-  <!-- Contact -->
-  <section style="text-align: left;">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">📫 Get In Touch</h2>
-    <p style="color: #4a5568;">Open to projects, collaborations, or just a tech chat. Let’s connect!</p>
-    <a href="mailto:arkharminn.dev@gmail.com" style="background: #4299e1; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">Email Me</a>
-  </section>
-</div>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=laravel-livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black)
+
+## 📊 GitHub Stats
+
+![Arkhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArKharMinnDev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArKharMinnDev&layout=compact&theme=radical)
+
+## 🌐 Projects
+
+I'm continuously working on various projects to strengthen my skills and explore new technologies. Here are some highlights:
+
+- **[Project Name]** - Brief description of the project and technologies used.
+- **[Project Name]** - Brief description of the project and technologies used.
+- **[Project Name]** - Brief description of the project and technologies used.
+
+Explore more of my work on my [GitHub repositories](https://github.com/ArKharMinnDev).
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the platforms below:
+
+- **Email:** [arkharminn.dev@gmail.com](mailto:arkharminn.dev@gmail.com)
+- **LinkedIn:** [Arkhar Minn](https://www.linkedin.com/in/arkhar-minn-901a752a8)
+- **GitHub:** [ArKharMinnDev](https://github.com/ArKharMinnDev)
+- **Facebook:** [Arkhar Minn](https://www.facebook.com/akmin.9060)
+
+---
+
+⭐️ From [Arkhar Minn](https://github.com/ArKharMinnDev)
