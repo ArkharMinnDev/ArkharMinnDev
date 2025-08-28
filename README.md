@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/arkhar-minn-901a752a8" target="_blank" title="LinkedIn">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" />
     </a>
-    <a href="https://github.com/ArKharMinn" target="_blank" title="GitHub">
+    <a href="https://github.com/ArKharMinnDev" target="_blank" title="GitHub">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="32" />
     </a>
   </section>
@@ -174,7 +174,7 @@
   <section style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; text-align: left;">
     <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">🌐 Projects</h2>
     <p align="left">
-        I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinn" target="_blank">GitHub</a>.
+        I am currently working on various projects to strengthen my skills. You can explore my work on my <a href="https://github.com/ArKharMinnDev" target="_blank">GitHub</a>.
     </p>
   </section>
 
